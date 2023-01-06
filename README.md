@@ -1,9 +1,5 @@
 # Projek-IOT-Monitoring-Detak-Jantung-dan-Suhu-Manusia
 
-![image](https://user-images.githubusercontent.com/108654517/210951800-077a3ff3-b37a-4b49-ad83-d326eac74047.png)
-
-![image](https://user-images.githubusercontent.com/108654517/210951869-c3223710-9f79-4fab-b695-853553882762.png)
-
 Detak jantung dan suhu tubuh merupakan dua parameter penting yang digunakan oleh para 
 medis untuk mengetahui kesehatan fisik. Pengukuran yang dilakukan saat ini masih menggunakan cara yang konvensional, 
 cara ini akan memakan waktu yang lama dan harus dilakukan pengecekan secara berkala sehingga 
@@ -16,3 +12,12 @@ pada LCD. Indikator yang akan menginformasikan keadaan pasien atau seseorang yan
 sedang dipantau sehingga akan ada penanganan yang dilakukan oleh staf medis. dengan memanfaatkan aplikasi blynk sebagai media dari internet of 
 things sebagai sistem monitoring yang dapat menampilkan data suhu tubuh 
 dan detak jantung manusia melalui blynk.
+
+Design Rangkaian
+
+![image](https://user-images.githubusercontent.com/108654517/210951800-077a3ff3-b37a-4b49-ad83-d326eac74047.png)
+
+Hasil Monitoring
+
+![image](https://user-images.githubusercontent.com/108654517/210952095-9f09ff67-813c-46bf-9e9a-a9b8983556b5.png)
+
